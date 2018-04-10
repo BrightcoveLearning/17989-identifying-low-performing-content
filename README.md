@@ -1,0 +1,2 @@
+# 17989-identifying-low-performing-content
+In this sample, you will learn how to use the CMS API and the Analytics API together to compile a list of videos with less than five views over the past 1-6 months (you can specify the period). The output includes the creation date for the video, and you can exclude videos published within the last 1-12 months if you like. The results can be returned in JSON or CSV format.
